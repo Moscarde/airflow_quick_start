@@ -1,5 +1,7 @@
 # Building Your First Workflow with Apache Airflow
 
+> Baseado no guia oficial: https://airflow.apache.org/docs/apache-airflow/stable/tutorial/fundamentals.html
+
 ## Executando uma Task Isoladamente via Linha de Comando
 
 Durante o desenvolvimento e teste de workflows no Apache Airflow, é comum a necessidade de executar uma task específica isoladamente para validar sua lógica sem disparar toda a DAG.
