@@ -18,4 +18,8 @@ Explorar a configuração e execução básica do Apache Airflow com a engine pa
 
 ## Etapas do Estudo
 
-Veja o progresso e aprendizados no arquivo [`docs/1-Quick_Start.md`](docs/1-Quick_Start.md).
+Veja o progresso e aprendizados no arquivos:
+
+- [`docs/1-Quick_Start.md`](docs/1-Quick_Start.md).
+- [`docs/2-Building_Your_First_Workflow.md`](docs/2-Building_Your_First_Workflow.md).
+
