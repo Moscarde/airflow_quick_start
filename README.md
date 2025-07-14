@@ -23,4 +23,5 @@ Veja o progresso e aprendizados no arquivos:
 - [`docs/1-Quick_Start.md`](docs/1-Quick_Start.md).
 - [`docs/2-Building_Your_First_Workflow.md`](docs/2-Building_Your_First_Workflow.md).
 - [`docs/3-Pythonic_DAGs_with_the_TaskFlow_API.md`](docs/3-Pythonic_DAGs_with_the_TaskFlow_API.md).
+- [`docs/4-Building_a_Simple_Data_Pipeline.md`](docs/4-Building_a_Simple_Data_Pipeline.md).
 
